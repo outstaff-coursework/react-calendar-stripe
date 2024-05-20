@@ -1,0 +1,8 @@
+.rcs-stripe-meeting {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.rcs-stripe-meeting:hover {
+    border: solid 2px blue;
+}

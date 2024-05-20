@@ -1,0 +1,18 @@
+.rcs-stripe {
+    font-family: 'Nunito Sans', sans-serif;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+}
+
+.rcs-stripe-spacer {
+    position: absolute;
+    box-sizing: border-box;
+    border: 1px dashed gray;
+}
+
+.rcs-stripe-new-meeting {
+    position: absolute;
+    z-index: 30;
+    background-color: #17ccf988;
+}

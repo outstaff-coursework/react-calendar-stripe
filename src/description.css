@@ -1,0 +1,21 @@
+.rcs-stripe-meeting-description {
+    position: absolute;
+    width: 200px;
+    border: solid 1px black;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    background-color: rgb(255, 255, 255, 1);
+    padding: 5px;
+}
+
+.rcs-stripe-meeting-description h3 {
+    margin-top: 0;
+}
+
+.rcs-stripe-meeting-description h4 {
+    margin-top: 5px;
+}
+
+.rcs-stripe-meeting-description-participants {
+    display: flex;
+    flex-direction: column;
+}
